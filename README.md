@@ -20,14 +20,14 @@
 - Install dependencies
 
 ```bash
-yarn install
+  yarn install
 ```
 
 - Build and run the project offline
 
 ```bash
-yarn build
-yarn dev
+  yarn build
+  yarn dev
 ```
 
 Navigate to `http://localhost:4000/dev/status`
